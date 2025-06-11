@@ -2,21 +2,19 @@
     {
         "id": 3,
         "title": "Foam Roller",
-        "content": "Born in Madrid",
+        "content": "90CM",
         "price": "₩12,000"
     },
 
     {
         "id": 4,
         "title": "Strap",
-        "content": "Born in Madrid",
         "price": "₩29,500"
     },
 
     {
         "id": 5,
         "title": "Wrist Guards",
-        "content": "Born in Madrid",
         "price": "₩20,000"
     }
 ]
